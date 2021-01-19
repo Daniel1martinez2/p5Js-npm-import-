@@ -1,0 +1,17 @@
+{
+  "name": "p5js-npm-import",
+  "version": "1.0.0",
+  "description": "just a practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "daniel martinez",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.2.0"
+  }
+}
